@@ -48,6 +48,25 @@ export const products: Product[] = [
     description: "Gecko arbóreo con apariencia única y temperamento gentil.",
     inStock: true,
   },
+  // Tortugas
+  {
+    id: "19",
+    name: "Tortuga de Orejas Rojas",
+    category: "turtle",
+    price: 899.99,
+    image: "/red-eared-slider.jpg",
+    description: "Tortuga acuática popular, perfecta para principiantes.",
+    inStock: true,
+  },
+  {
+    id: "20",
+    name: "Tortuga Terrestre Rusa",
+    category: "turtle",
+    price: 2499.99,
+    image: "/russian-tortoise.jpg",
+    description: "Tortuga terrestre de tamaño mediano, muy resistente y longeva.",
+    inStock: true,
+  },
   // Serpientes
   {
     id: "6",

@@ -1,7 +1,7 @@
 export interface Product {
   id: string
   name: string
-  category: "fish" | "gecko" | "snake" | "aquarium" | "terrarium" | "food" | "accessory"
+  category: "fish" | "gecko" | "snake" | "turtle" | "aquarium" | "terrarium" | "food" | "accessory"
   price: number
   image: string
   description: string

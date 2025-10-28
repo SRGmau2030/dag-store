@@ -12,6 +12,7 @@ const categories: { value: string; label: string }[] = [
   { value: "fish", label: "Peces" },
   { value: "gecko", label: "Geckos" },
   { value: "snake", label: "Serpientes" },
+  { value: "turtle", label: "Tortugas" },
   { value: "aquarium", label: "Acuarios" },
   { value: "terrarium", label: "Terrarios" },
   { value: "food", label: "Alimento" },

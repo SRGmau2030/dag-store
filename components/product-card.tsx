@@ -21,6 +21,7 @@ export function ProductCard({ product }: ProductCardProps) {
     fish: "Pez",
     gecko: "Gecko",
     snake: "Serpiente",
+    turtle: "Tortuga",
     aquarium: "Acuario",
     terrarium: "Terrario",
     food: "Alimento",
