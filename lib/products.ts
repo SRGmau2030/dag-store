@@ -7,7 +7,7 @@ export const products: Product[] = [
     name: "Pez Betta",
     category: "fish",
     price: 499.99,
-    image: "/colorful-betta-fish.jpg",
+    image: "https://mtyupnlehgshxkbuzfic.supabase.co/storage/v1/object/public/product_images/colorful-betta-fish.jpg",
     description: "Hermoso y vibrante pez Betta, perfecto para acuarios pequeños.",
     inStock: true,
   },

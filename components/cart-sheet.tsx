@@ -12,7 +12,7 @@ export function CartSheet() {
     return (
       <div className="flex flex-col items-center justify-center h-full text-center py-12">
         <p className="text-muted-foreground mb-4">Tu carrito está vacío</p>
-        <p className="text-sm text-muted-foreground">¡Agrega algunas mascotas o suministros para comenzar!</p>
+        <p className="text-sm text-muted-foreground">¡Agrega algunas mascotas o accesorios para comenzar!</p>
       </div>
     )
   }
