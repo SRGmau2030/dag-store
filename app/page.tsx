@@ -58,7 +58,7 @@ export default function HomePage() {
 
         <div className="container mx-auto text-center max-w-3xl relative z-10">
           <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-serif font-bold mb-6 text-balance text-primary">
-            Bienvenido a DAG Tienda de Mascotas
+            Bienvenido a DAG Store
           </h1>
           <p className="text-lg sm:text-xl md:text-2xl text-primary/80 mb-8 text-pretty">
             Tu fuente confiable para mascotas exóticas y suministros premium. Nos especializamos en peces, geckos,
